@@ -23,9 +23,7 @@ h1.main-title {
   color: white;
   font-size: 20px;
 }
-.App .container {
-  margin-top: 50px;
-}
+
 
 @media (max-width: 800px) {
   .App .App-header {
