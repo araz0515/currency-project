@@ -1,4 +1,5 @@
 import "./App.css";
+import Forms from "./Forms";
 
 function App() {
   return (
@@ -10,8 +11,10 @@ function App() {
           {" "}
           Delivering exchanging rates data for more than 170 world currencies
         </h2>
-      </header>
-      <section></section>
+      </header>{" "}
+      <section>
+        <Forms />
+      </section>
     </div>
   );
 }
